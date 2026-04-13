@@ -10,7 +10,7 @@ Dana is a director, VP, or departmental lead. She does not answer surveys or dir
 **Goals:**
 
 - Maintain high-level awareness of engagement and well-being trends across the organisation
-- Find topics to discuss with the managers who report to her (like [Marcia](#marcia-team-manager))
+- Find topics to discuss with the managers who report to her (like [Marcia](#marcia---team-manager))
 - Use engagement data to inform strategic decisions about culture and retention
 
 **Needs:**
@@ -39,7 +39,7 @@ Henry is an HR generalist. He is the primary WorkHop administrator for his organ
 
 - Keep a pulse on org-wide employee engagement
 - Set up survey cycles that generate reliable, actionable data
-- Make sure the platform is set up so employees (like [Eli](#eli-employee)) have seamless access to WorkHop
+- Make sure the platform is set up so employees (like [Eli](#eli---employee)) have seamless access to WorkHop
 
 **Needs:**
 
